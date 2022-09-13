@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "http://alidorludovic.github.io/blog/"
 languageCode: "en-us"
 title: Ludovic Alidor
 theme: "hugo-tania"
