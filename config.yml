@@ -1,0 +1,87 @@
+baseURL: ""
+languageCode: "en-us"
+title: Ludovic Alidor
+theme: "hugo-tania"
+paginate: 6
+copyright: Everything is mine
+
+disqusShortname: https-hugo-tania-netlify-app
+
+params:
+  # Emoji will show before the blog title on site navbar.
+  titleEmoji: 🧉
+
+  # Logo will show before the blog title on site navbar.
+  titleLogo: 
+  
+  # Enable float footnotes.
+  # Default to true
+  enableFootnotes: true
+  
+  siteName: "Hugo Tania is Amazing"
+  siteDesc: "Hugo is Absurdly Fast!"
+  author: "Hugo Tania"
+
+  colorScheme:
+    # Enable toggle colorScheme
+    # Default to true
+    toggle: true
+    # Default colorScheme
+    # Default to auto
+    default: auto
+
+  # Limit how many categories filter show above search input.
+  # Default to 5
+  maxCategoryToShow: 10
+
+  # Show your socail information with icon on index bio with `_index.md` content.
+  socialOptions:
+    dev-to:
+    email: alidorludovic@gmail.com
+    facebook:
+    github:
+    instagram: https://www.instagram.com/ludovic.alidor/
+    linkedin: https://www.linkedin.com/in/ludovic-alidor-00703a140/
+    medium:
+    stack-overflow:
+    steam:
+    telegram:
+    twitter: https://twitter.com/ludovic_alidor
+    twitch:
+    whatsapp:
+  
+  # Comments settings
+  comments:
+    enabled: true
+    provider: giscus
+
+    giscus:
+      repo: WingLim/hugo-tania
+      id: MDEwOlJlcG9zaXRvcnkzMTYyNjQzMDc=
+      category:
+        name: Comments
+        id: DIC_kwDOEtnPc84B_WKP
+
+menu:
+  header:
+    - name: Articles
+      url: "/articles/"
+    - name: About 
+      url: "/aboutme/"
+    - name: Résumé
+      url : "/resume/"
+  footer:
+    - name : Ludovic Alidor © 2022 
+#    - name: RSS
+#      url: "/index.xml"
+
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
