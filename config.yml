@@ -4,8 +4,8 @@ title: Ludovic Alidor
 theme: "hugo-tania"
 paginate: 6
 copyright: Everything is mine
-
 disqusShortname: https-hugo-tania-netlify-app
+
 
 params:
   # Emoji will show before the blog title on site navbar.
@@ -18,9 +18,9 @@ params:
   # Default to true
   enableFootnotes: true
   
-  siteName: "Hugo Tania is Amazing"
-  siteDesc: "Hugo is Absurdly Fast!"
-  author: "Hugo Tania"
+  siteName: "Ludovic ALIDOR"
+  siteDesc: "The website of Ludovic ALIDOR"
+  author: "Ludovic ALIDOR"
 
   colorScheme:
     # Enable toggle colorScheme
