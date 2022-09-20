@@ -11,6 +11,7 @@ My name is Ludovic Alidor ( *He/him* )  and I am a  [**Software Engineer**](http
 ## Why 🧉 ?
 After a trip to South America, I fell in love with [Yerba Mate](https://en.wikipedia.org/wiki/Mate_(drink)), a drink I consume regularly that gives me energy during my productive hours.
 
+📍 *If you want to [send 🧉](https://www.buymeacoffee.com/alidorludovic) for the devops community.* 
 
 
  ## Languages
