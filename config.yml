@@ -48,7 +48,7 @@ params:
     telegram:
     twitter: https://twitter.com/ludovic_alidor
     twitch:
-    whatsapp:
+    whatsapp: https://wa.me/262692176764
   
   # Comments settings
   comments:
