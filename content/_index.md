@@ -1,7 +1,7 @@
-### 🚀 Junior System & Network Administrator currently looking for a job.
+### 🚀 Junior Consultant DevOps at [Astek](https://astekgroup.fr/)
 
 #### Current goals 🌋
 - ✨ Learn  [Terraform](https://www.terraform.io/)
 - 💪 Make my first muscle up
-- 🛫 Visit eastern europe
+- 🛫 Visit USA
 - 📚 Learn basic italian
