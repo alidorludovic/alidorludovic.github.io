@@ -28,3 +28,7 @@ After a trip to South America, I fell in love with [Yerba Mate](https://en.wikip
 
 ## Get In Touch 🌍
 You can reach me via [Email](mailto:san@antonio.net), [Linkedin](https://www.linkedin.com/in/ludovic-alidor-00703a140/) or [Twitter](https://twitter.com/ludovic_alidor).
+
+ #### Disclamer
+ 
+ Any opinions expressed on this blog are my own and do not reflect those of my employers.
