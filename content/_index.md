@@ -3,5 +3,5 @@
 #### Current goals 🌋
 - ✨ Learn  [Terraform](https://www.terraform.io/)
 - 💪 Make my first muscle up
-- 🛫 Visit USA
+- 🛫 Visit [USA](https://en.wikipedia.org/wiki/United_States)
 - 📚 Learn basic italian
