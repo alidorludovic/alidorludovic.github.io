@@ -6,4 +6,4 @@
 - 🛫 Visit [USA](https://en.wikipedia.org/wiki/United_States)
 - 📚 Learn basic italian
 
-{{< tweet user="ludovic_alidor" id="1635934511438479361" >}}
+{{< tweet user="ludovic_alidor" id="1689526738764648448" >}}

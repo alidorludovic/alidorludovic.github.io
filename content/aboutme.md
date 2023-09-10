@@ -8,7 +8,7 @@ title: About
 
  ## In short
 
-My name is Ludovic Alidor   and I am a  [**Software Engineer**](https://en.wikipedia.org/wiki/Computer_engineering) currently living in [Antibes](https://en.wikipedia.org/wiki/Antibes), France.  My interests range from [**photography**](https://500px.com/p/alidorludovic) to [**travel**](https://www.google.com/maps/d/u/0/edit?mid=1aP77NK-gJBWSS9XGc_P_AC8MasvlMnkx&usp=sharing). I am also interested in **food**, **programming**, and **innovation**.
+My name is Ludovic Alidor   and I am a  [**Software Engineer**](https://en.wikipedia.org/wiki/Computer_engineering) currently living in [**Nice**](https://en.wikipedia.org/wiki/Nice), France.  My interests range from [**photography**](https://500px.com/p/alidorludovic) to [**travel**](https://www.google.com/maps/d/u/0/edit?mid=1aP77NK-gJBWSS9XGc_P_AC8MasvlMnkx&usp=sharing). I am also interested in **food**, **programming**, and **innovation**.
 
 
 ## Why 🧉 ?
