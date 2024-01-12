@@ -24,12 +24,6 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Instrumentation
-        run: go get github.com/prometheus/client_golang/prometheus
-
-      - name: Expose Metrics
-        run: go run ./public/instrumentation.go
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
