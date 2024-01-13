@@ -46,11 +46,12 @@ params:
     stack-overflow:
     steam:
     telegram: https://t.me/alidorludovic
+    threads: https://www.threads.net/@ludovic.alidor
     twitter: https://twitter.com/ludovic_alidor
     twitch:
     whatsapp: https://wa.me/262692176764
-    threads: https://www.threads.net/@ludovic.alidor
-    mastodon: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    
+    #mastodon: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   
   # Comments settings
   comments:
