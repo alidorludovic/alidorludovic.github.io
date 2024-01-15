@@ -1,3 +1,6 @@
 [submodule "themes/hugo-tania"]
 	path = themes/hugo-tania
 	url = https://github.com/alidorludovic/hugo-tania
+[submodule "themes/faro-analytics"]
+    path = themes/faro-analytics
+    url = https://github.com/cbos/hugo-faro-analytics.git
