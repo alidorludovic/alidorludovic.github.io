@@ -5,7 +5,7 @@ theme: "hugo-tania"
 paginate: 6
 copyright: Everything is mine
 disqusShortname: https-hugo-tania-netlify-app
-googleAnalytics: G-Y0M1P409XV
+googleAnalytics: ${{ secrets.GOOGLE_ANALYTICS_CODE}}
 
 params:
   # Emoji will show before the blog title on site navbar.
@@ -52,7 +52,12 @@ params:
     whatsapp: https://wa.me/262692176764
     
     #mastodon: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-  
+
+  faro_analytics:
+    endpoint: ${{ secrets.FARO_ENDPOINT }}
+    name: "alidorludovic.github.io"
+    version: "1.0.0"
+
   # Comments settings
   comments:
     enabled: true
@@ -60,10 +65,12 @@ params:
 
     giscus:
       repo: WingLim/hugo-tania
-      id: MDEwOlJlcG9zaXRvcnkzMTYyNjQzMDc=
+      id: ${{ secrets.GISCUS_ID }}
       category:
         name: Comments
-        id: DIC_kwDOEtnPc84B_WKP
+        id: ${{ secrets.GISCUS_CATEGORY_ID }}
+
+        
 
 menu:
   header:
