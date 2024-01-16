@@ -54,7 +54,7 @@ params:
     #mastodon: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
   faro_analytics:
-    endpoint: ${{ secrets.FARO_ENDPOINT }}
+    endpoint: "${{ secrets.FARO_ENDPOINT }}"
     name: "alidorludovic.github.io"
     version: "1.0.0"
     #environnement: "production"
@@ -67,10 +67,10 @@ params:
 
     giscus:
       repo: WingLim/hugo-tania
-      id: ${{ secrets.GISCUS_ID }}
+      id: "${{ secrets.GISCUS_ID }}"
       category:
         name: Comments
-        id: ${{ secrets.GISCUS_CATEGORY_ID }}
+        id: "${{ secrets.GISCUS_CATEGORY_ID }}"
 
         
 
