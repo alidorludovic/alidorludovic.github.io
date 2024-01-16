@@ -1,7 +1,7 @@
 baseURL: "http://alidorludovic.github.io"
 languageCode: "en-us"
 title: Ludovic Alidor
-theme: "alidorludovic/hugo-tania"
+theme: "hugo-tania"
 paginate: 6
 copyright: Everything is mine
 disqusShortname: https-hugo-tania-netlify-app
