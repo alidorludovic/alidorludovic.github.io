@@ -57,6 +57,8 @@ params:
     endpoint: ${{ secrets.FARO_ENDPOINT }}
     name: "alidorludovic.github.io"
     version: "1.0.0"
+    #environnement: "production"
+    analyze: true
 
   # Comments settings
   comments:
