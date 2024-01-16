@@ -54,7 +54,7 @@ params:
     #mastodon: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
   faro_analytics:
-    endpoint: "${{ secrets.FARO_ENDPOINT }}"
+    endpoint: "https://faro-collector-prod-us-east-0.grafana.net/collect/0a90369b35edb0efcfe6205cdd4b2a14"
     name: "alidorludovic.github.io"
     version: "1.0.0"
     #environnement: "production"
