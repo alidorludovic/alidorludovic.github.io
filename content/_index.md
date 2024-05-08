@@ -7,5 +7,4 @@
 - 📚 Learn basic italian
 
 {{< tweet user="ludovic_alidor" id="1689526738764648448" >}}
-
-{{< prisme />}}
+{{< prisme src="https://app.prismeanalytics.com/static/m.js" verification-id="f57d190f-eb80-49aa-861d-369609e294d1" defer >}}
