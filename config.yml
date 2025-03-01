@@ -2,7 +2,8 @@ baseURL: "http://alidorludovic.github.io"
 languageCode: "en-us"
 title: Ludovic Alidor
 theme: "hugo-tania"
-paginate: 6
+pagination:
+  pagerSize: 6
 copyright: Everything is mine
 disqusShortname: https-hugo-tania-netlify-app
 googleAnalytics: ${{ secrets.GOOGLE_ANALYTICS_CODE}}
@@ -47,7 +48,7 @@ params:
     steam:
     telegram: https://t.me/alidorludovic
     threads: https://www.threads.net/@ludovic.alidor
-    twitter: https://twitter.com/ludovic_alidor
+    twitter: https://x.com/ludovic_alidor
     twitch:
     whatsapp: https://wa.me/262692176764
     

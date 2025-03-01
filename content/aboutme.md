@@ -27,7 +27,7 @@ After a trip to South America, I fell in love with [Yerba Mate](https://en.wikip
 |Portuguese|![pt](https://flagpedia.net/data/flags/mini/pt.png)|
 
 ## Get In Touch 🌍
-You can reach me via [Email](mailto:san@antonio.net), [Linkedin](https://www.linkedin.com/in/ludovic-alidor-00703a140/) or [Twitter](https://twitter.com/ludovic_alidor).
+You can reach me via [Email](mailto:alidorludovic@gmail.com), [Linkedin](https://www.linkedin.com/in/ludovic-alidor-00703a140/) or [X](https://x.com/ludovic_alidor).
 
  #### Disclamer
  
