@@ -6,7 +6,6 @@ pagination:
   pagerSize: 6
 copyright: Everything is mine
 disqusShortname: https-hugo-tania-netlify-app
-googleAnalytics: ${{ secrets.GOOGLE_ANALYTICS_CODE}}
 
 params:
   # Emoji will show before the blog title on site navbar.
