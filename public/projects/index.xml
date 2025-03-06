@@ -10,25 +10,25 @@
     <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Citroën 2CV camshaft analyzer</title>
+      <title>Citroën 2CV camshaft analyzer 🚗</title>
       <link>http://localhost:1313/projects/camsahftanalyser/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/camsahftanalyser/</guid>
-      <description></description>
+      <description>&lt;p&gt;This article describes the development of a connected test bench designed to analyze the camshafts of Citroën 2CV cars. The project involves both hardware and software components to ensure precise measurements and data analysis.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Zot&#39; CoD</title>
+      <title>Zot&#39; CoD 📝</title>
       <link>http://localhost:1313/projects/zotcod/</link>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/zotcod/</guid>
-      <description></description>
+      <description>&lt;p&gt;This article describes the Zot&amp;rsquo; CoD project, an initiative within the Fablab of the IUT of Reunion Island. The project aimed to provide computer science and robotics courses to primary and secondary school students in the priority education zone of the region.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>System of automation of the regulation of the water level of a swimming pool. </title>
+      <title>System of automation of the regulation of the water level of a swimming pool 🏊</title>
       <link>http://localhost:1313/projects/regulationlevelwater/</link>
       <pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/regulationlevelwater/</guid>
-      <description></description>
+      <description>&lt;p&gt;This article describes the development of an automated system designed to regulate the water level of a swimming pool. The project involves both hardware and software components to ensure precise control and management of the water level. This was a high school project.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

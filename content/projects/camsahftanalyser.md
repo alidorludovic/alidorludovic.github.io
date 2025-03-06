@@ -46,23 +46,3 @@ The development process involved several stages, including:
 3. **Implementation**: Building the test bench and developing the necessary software.
 4. **Testing**: Validating the accuracy and reliability of the analyzer.
 5. **Deployment**: Making the tool available for use in workshops and garages.
-
-## Challenges and Solutions
-
-### Challenge 1: Precision Measurement
-
-Ensuring the accuracy of measurements was a significant challenge. To address this, we integrated high-precision sensors and calibration tools.
-
-### Challenge 2: Real-Time Data Transmission
-
-Transmitting data in real-time required a robust communication protocol. We implemented a reliable wireless communication system to ensure seamless data transfer.
-
-### Challenge 3: User-Friendly Interface
-
-Creating an intuitive interface for users was essential. We developed a user-friendly software interface that simplifies data analysis and reporting.
-
-## Conclusion
-
-The Citroën 2CV camshaft analyzer is a testament to the power of combining traditional automotive knowledge with modern technology. This project not only enhances the maintenance of classic vehicles but also sets a precedent for future innovations in automotive diagnostics.
-
-For more details, visit the [GitLab repository](https

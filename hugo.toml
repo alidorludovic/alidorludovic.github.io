@@ -94,7 +94,7 @@ shortname = "https-hugo-tania-netlify-app"
     provider = "giscus"
 
     [params.comments.giscus]
-      repo = "WingLim/hugo-tania"
+      rrepo = "luizdepra/hugo-coder"
       id = "${{ secrets.GISCUS_ID }}"
       [params.comments.giscus.category]
         name = "Comments"

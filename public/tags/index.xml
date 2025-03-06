@@ -7,33 +7,90 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Everything is mine</copyright>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Camshaft</title>
       <link>http://localhost:1313/tags/camshaft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/camshaft/</guid>
       <description></description>
     </item>
     <item>
       <title>Citroën 2CV</title>
       <link>http://localhost:1313/tags/citro%C3%ABn-2cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/citro%C3%ABn-2cv/</guid>
       <description></description>
     </item>
     <item>
       <title>Connected Device</title>
       <link>http://localhost:1313/tags/connected-device/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/connected-device/</guid>
       <description></description>
     </item>
     <item>
       <title>Test Bench</title>
       <link>http://localhost:1313/tags/test-bench/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/test-bench/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Science</title>
+      <link>http://localhost:1313/tags/computer-science/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/tags/education/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fablab</title>
+      <link>http://localhost:1313/tags/fablab/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fablab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics</title>
+      <link>http://localhost:1313/tags/robotics/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/robotics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
+      <pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Control System</title>
+      <link>http://localhost:1313/tags/control-system/</link>
+      <pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/control-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Swimming Pool</title>
+      <link>http://localhost:1313/tags/swimming-pool/</link>
+      <pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/swimming-pool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Water Level</title>
+      <link>http://localhost:1313/tags/water-level/</link>
+      <pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/water-level/</guid>
       <description></description>
     </item>
   </channel>
