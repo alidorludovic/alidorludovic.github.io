@@ -88,24 +88,13 @@ shortname = "https-hugo-tania-netlify-app"
     version = "1.0.0"
     analyze = true
 
-  # Comments settings
-  [params.comments]
-    enabled = true
-    provider = "giscus"
-
-    [params.comments.giscus]
-      rrepo = "luizdepra/hugo-coder"
-      id = "${{ secrets.GISCUS_ID }}"
-      [params.comments.giscus.category]
-        name = "Comments"
-        id = "${{ secrets.GISCUS_CATEGORY_ID }}"
 [languages.en]
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "aboutme/"
 
 [[languages.en.menu.main]]
 name = "Articles"

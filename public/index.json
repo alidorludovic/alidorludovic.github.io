@@ -1,1 +1,32 @@
-[{"categories":null,"contents":"","date":"Jul 15","permalink":"http://alidorludovic.github.io/projects/camsahftanalyser/","tags":null,"title":"Citroën 2CV camshaft analyzer"},{"categories":null,"contents":"","date":"Aug 06","permalink":"http://alidorludovic.github.io/projects/zotcod/","tags":null,"title":"Zot' CoD"},{"categories":null,"contents":"","date":"Jun 13","permalink":"http://alidorludovic.github.io/projects/regulationlevelwater/","tags":null,"title":"System of automation of the regulation of the water level of a swimming pool. "},{"categories":null,"contents":" ludovic alidor 🧉 In short My name is Ludovic Alidor and I am a Software Engineer currently living in Nice, France. My interests range from photography to travel. I am also interested in food, programming, and innovation.\nWhy 🧉 ? After a trip to South America, I fell in love with Yerba Mate, a drink I consume regularly that gives me energy during my productive hours.\n📍 If you want to send 🧉 for the devops community.\nLanguages French Réunion Creole Spanish English Portuguese Get In Touch 🌍 You can reach me via Email, Linkedin or X.\nDisclamer Any opinions expressed on this blog are my own and do not reflect those of my employers.\n","date":"Jan 01","permalink":"http://alidorludovic.github.io/aboutme/","tags":null,"title":"About"},{"categories":null,"contents":"","date":"Jan 01","permalink":"http://alidorludovic.github.io/articles/","tags":null,"title":"Articles"}]
+{
+  "version": "1.0",
+  "title": "Ludovic Alidor 🧉",
+  "description": "<no value>",
+  "baseURL": "http://localhost:1313/",
+  "pages": [{
+        "title": "Citroën 2CV camshaft analyzer 🚗",
+        "url": "http://localhost:1313/projects/camsahftanalyser/",
+        "date": "2022-07-15",
+        "description": "The research and development project of a connected test bench to analyze the camshafts of Citroën 2 CV cars."
+      },{
+        "title": "Zot' CoD 📝",
+        "url": "http://localhost:1313/projects/zotcod/",
+        "date": "2018-08-06",
+        "description": "Project within the Fablab of the IUT of Reunion Island which allowed to give computer science and robotics courses to primary and secondary school students of the priority education zone of the region."
+      },{
+        "title": "System of automation of the regulation of the water level of a swimming pool 🏊",
+        "url": "http://localhost:1313/projects/regulationlevelwater/",
+        "date": "2015-06-13",
+        "description": "Automation of the management of the water level of a swimming pool."
+      },{
+        "title": "About",
+        "url": "http://localhost:1313/aboutme/",
+        "date": "0001-01-01",
+        "description": ""
+      },{
+        "title": "Articles",
+        "url": "http://localhost:1313/articles/",
+        "date": "0001-01-01",
+        "description": ""
+      }]
+}
