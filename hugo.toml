@@ -134,9 +134,8 @@ url = "https://drive.google.com/file/d/1gJv8djpfX1gb3DApjUBzdH122KgrGt7i/view?us
     unsafe = true
 
 [module]
-  imports = [
-    { path = "faro-analytics" }
-  ]
-
+[[module.imports]]
+    path = 'faro-analytics'
+    
 [outputs]
   home = ["HTML", "RSS", "JSON"]
