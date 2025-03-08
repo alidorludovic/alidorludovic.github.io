@@ -4,6 +4,7 @@ title = "Ludovic Alidor 🧉"
 theme = "hugo-coder"
 pagination = { pagerSize = 6 }
 copyright = "Everything is mine"
+keywords = "blog,developer,personal"
 defaultContentLanguage = "en"
 enableEmoji = true
 

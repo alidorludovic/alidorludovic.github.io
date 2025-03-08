@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Ludovic Alidor 🧉</title><link>http://alidorludovic.github.io/categories/projects/</link><description>Recent content in Projects on Ludovic Alidor 🧉</description><generator>Hugo</generator><language>en</language><copyright>Everything is mine</copyright><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://alidorludovic.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Citroën 2CV camshaft analyzer 🚗</title><link>http://alidorludovic.github.io/projects/camsahftanalyser/</link><pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate><guid>http://alidorludovic.github.io/projects/camsahftanalyser/</guid><description>&lt;p>This article describes the development of a connected test bench designed to analyze the camshafts of Citroën 2CV cars. The project involves both hardware and software components to ensure precise measurements and data analysis.&lt;/p></description></item><item><title>Zot' CoD 📝</title><link>http://alidorludovic.github.io/projects/zotcod/</link><pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate><guid>http://alidorludovic.github.io/projects/zotcod/</guid><description>&lt;p>This article describes the Zot&amp;rsquo; CoD project, an initiative within the Fablab of the IUT of Reunion Island. The project aimed to provide computer science and robotics courses to primary and secondary school students in the priority education zone of the region.&lt;/p></description></item><item><title>System of automation of the regulation of the water level of a swimming pool 🏊</title><link>http://alidorludovic.github.io/projects/regulationlevelwater/</link><pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate><guid>http://alidorludovic.github.io/projects/regulationlevelwater/</guid><description>&lt;p>This article describes the development of an automated system designed to regulate the water level of a swimming pool. The project involves both hardware and software components to ensure precise control and management of the water level. This was a high school project.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ludovic Alidor 🧉</title>
+    <link>http://alidorludovic.github.io/categories/projects/</link>
+    <description>Recent content in Projects on Ludovic Alidor 🧉</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Everything is mine</copyright>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://alidorludovic.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citroën 2CV camshaft analyzer 🚗</title>
+      <link>http://alidorludovic.github.io/projects/camsahftanalyser/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://alidorludovic.github.io/projects/camsahftanalyser/</guid>
+      <description>&lt;p&gt;This article describes the development of a connected test bench designed to analyze the camshafts of Citroën 2CV cars. The project involves both hardware and software components to ensure precise measurements and data analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zot&#39; CoD 📝</title>
+      <link>http://alidorludovic.github.io/projects/zotcod/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://alidorludovic.github.io/projects/zotcod/</guid>
+      <description>&lt;p&gt;This article describes the Zot&amp;rsquo; CoD project, an initiative within the Fablab of the IUT of Reunion Island. The project aimed to provide computer science and robotics courses to primary and secondary school students in the priority education zone of the region.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>System of automation of the regulation of the water level of a swimming pool 🏊</title>
+      <link>http://alidorludovic.github.io/projects/regulationlevelwater/</link>
+      <pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://alidorludovic.github.io/projects/regulationlevelwater/</guid>
+      <description>&lt;p&gt;This article describes the development of an automated system designed to regulate the water level of a swimming pool. The project involves both hardware and software components to ensure precise control and management of the water level. This was a high school project.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
