@@ -82,12 +82,6 @@ shortname = "https-hugo-tania-netlify-app"
     icon = "fab fa-whatsapp"
     weight = 8
 
-  # Faro Analytics settings
-  [params.faro_analytics]
-    endpoint = "https://faro-collector-prod-us-east-0.grafana.net/collect/0a90369b35edb0efcfe6205cdd4b2a14"
-    name = "alidorludovic.github.io"
-    version = "1.0.0"
-    analyze = true
 
 [languages.en]
 languageName = ":uk:"
@@ -133,9 +127,5 @@ url = "https://drive.google.com/file/d/1gJv8djpfX1gb3DApjUBzdH122KgrGt7i/view?us
   [markup.goldmark.renderer]
     unsafe = true
 
-[module]
-[[module.imports]]
-    path = 'faro-analytics'
-    
 [outputs]
   home = ["HTML", "RSS", "JSON"]

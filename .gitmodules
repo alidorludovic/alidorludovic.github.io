@@ -1,6 +1,4 @@
-[submodule "themes/faro-analytics"]
-	path = themes/faro-analytics
-	url = https://github.com/cbos/hugo-faro-analytics.git
+
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
