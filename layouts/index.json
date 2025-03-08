@@ -1,0 +1,21 @@
+{{- $.Scratch.Set "pages" .Site.Pages -}}
+{{- if .IsHome -}}
+  {{- $.Scratch.Set "pages" .Site.RegularPages -}}
+{{- end -}}
+{
+  "version": "1.0",
+  "title": "{{ .Site.Title }}",
+  "description": "{{ .Site.Params.description }}",
+  "baseURL": "{{ .Site.BaseURL }}",
+  "pages": [
+    {{- range $index, $page := ($.Scratch.Get "pages") -}}
+      {{- if $index -}},{{- end -}}
+      {
+        "title": "{{ $page.Title }}",
+        "url": "{{ $page.Permalink }}",
+        "date": "{{ $page.Date.Format "2006-01-02" }}",
+        "description": "{{ $page.Description }}"
+      }
+    {{- end -}}
+  ]
+}

@@ -1,0 +1,142 @@
+baseURL = "http://alidorludovic.github.io"
+languageCode = "en"
+title = "Ludovic Alidor 🧉"
+theme = "hugo-coder"
+pagination = { pagerSize = 6 }
+copyright = "Everything is mine"
+keywords = "blog,developer,personal"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[services]
+[services.disqus]
+# Enable Disqus comments
+shortname = "https-hugo-tania-netlify-app"
+
+[params]
+  # Emoji will show before the blog title on site navbar.
+  titleEmoji = "🧉"
+
+  # Logo will show before the blog title on site navbar.
+  titleLogo = ""
+
+  # Enable float footnotes.
+  enableFootnotes = true
+  info = ["Consultant DevOps"]
+  since = 2022
+  siteName = "Ludovic ALIDOR"
+  siteDesc = "Ludovic ALIDOR's website"
+  author = "Ludovic ALIDOR"
+  colorScheme ="auto"
+  hideColorSchemeToggle = false
+  rtl = false
+
+  # Limit how many categories filter show above search input.
+  maxCategoryToShow = 10
+
+  [[params.social.items]]
+    name = "github"
+    url = "https://github.com/alidorludovic"
+    icon = "fab fa-github"
+    weight = 1
+
+  [[params.social.items]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/ludovic-alidor-00703a140"
+    icon = "fab fa-linkedin"
+    weight = 2
+
+  [[params.social.items]]
+    name = "twitter"
+    url = "https://x.com/ludovic_alidor"
+    icon = "fab fa-x-twitter"
+    weight = 3
+
+  [[params.social.items]]
+    name = "email"
+    url = "mailto:alidorludovic@gmail.com"
+    icon = "fas fa-envelope"
+    weight = 4
+
+  [[params.social.items]]
+    name = "instagram"
+    url = "https://www.instagram.com/ludovic.alidor/"
+    icon = "fab fa-instagram"
+    weight = 5
+
+  [[params.social.items]]
+    name = "telegram"
+    url = "https://t.me/alidorludovic"
+    icon = "fab fa-telegram"
+    weight = 6
+
+  [[params.social.items]]
+    name = "threads"
+    url = "https://www.threads.net/@ludovic.alidor"
+    icon = "fab fa-threads"
+    weight = 7
+
+  [[params.social.items]]
+    name = "whatsapp"
+    url = "https://wa.me/262692176764"
+    icon = "fab fa-whatsapp"
+    weight = 8
+
+  # Faro Analytics settings
+  [params.faro_analytics]
+    endpoint = "https://faro-collector-prod-us-east-0.grafana.net/collect/0a90369b35edb0efcfe6205cdd4b2a14"
+    name = "alidorludovic.github.io"
+    version = "1.0.0"
+    analyze = true
+
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "aboutme/"
+
+[[languages.en.menu.main]]
+name = "Articles"
+weight = 2
+url = "articles/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Résumé"
+weight = 4
+url = "https://drive.google.com/file/d/1gJv8djpfX1gb3DApjUBzdH122KgrGt7i/view?usp=sharing"
+
+[menu]
+  [[menu.header]]
+    name = "Articles"
+    url = "/articles/"
+
+  [[menu.header]]
+    name = "About"
+    url = "/aboutme/"
+
+  [[menu.header]]
+    name = "Résumé"
+    url = "https://drive.google.com/file/d/1gJv8djpfX1gb3DApjUBzdH122KgrGt7i/view?usp=sharing"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    lineNos = true
+
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[module]
+  imports = [
+    { path = "faro-analytics" }
+  ]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

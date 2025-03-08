@@ -1,1 +1,48 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ludovic Alidor</title><link>http://alidorludovic.github.io/</link><description>Recent content on Ludovic Alidor</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Everything is mine</copyright><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://alidorludovic.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Citroën 2CV camshaft analyzer</title><link>http://alidorludovic.github.io/projects/camsahftanalyser/</link><pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate><guid>http://alidorludovic.github.io/projects/camsahftanalyser/</guid><description/></item><item><title>Zot' CoD</title><link>http://alidorludovic.github.io/projects/zotcod/</link><pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate><guid>http://alidorludovic.github.io/projects/zotcod/</guid><description/></item><item><title>System of automation of the regulation of the water level of a swimming pool.</title><link>http://alidorludovic.github.io/projects/regulationlevelwater/</link><pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate><guid>http://alidorludovic.github.io/projects/regulationlevelwater/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ludovic Alidor 🧉</title>
+    <link>http://alidorludovic.github.io/</link>
+    <description>Recent content on Ludovic Alidor 🧉</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Everything is mine</copyright>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://alidorludovic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citroën 2CV camshaft analyzer 🚗</title>
+      <link>http://alidorludovic.github.io/projects/camsahftanalyser/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://alidorludovic.github.io/projects/camsahftanalyser/</guid>
+      <description>&lt;p&gt;This article describes the development of a connected test bench designed to analyze the camshafts of Citroën 2CV cars. The project involves both hardware and software components to ensure precise measurements and data analysis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zot&#39; CoD 📝</title>
+      <link>http://alidorludovic.github.io/projects/zotcod/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>http://alidorludovic.github.io/projects/zotcod/</guid>
+      <description>&lt;p&gt;This article describes the Zot&amp;rsquo; CoD project, an initiative within the Fablab of the IUT of Reunion Island. The project aimed to provide computer science and robotics courses to primary and secondary school students in the priority education zone of the region.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>System of automation of the regulation of the water level of a swimming pool 🏊</title>
+      <link>http://alidorludovic.github.io/projects/regulationlevelwater/</link>
+      <pubDate>Sat, 13 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://alidorludovic.github.io/projects/regulationlevelwater/</guid>
+      <description>&lt;p&gt;This article describes the development of an automated system designed to regulate the water level of a swimming pool. The project involves both hardware and software components to ensure precise control and management of the water level. This was a high school project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://alidorludovic.github.io/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://alidorludovic.github.io/aboutme/</guid>
+      <description>&lt;h1 id=&#34;ludovic-alidor-&#34;&gt;&#xA;  ludovic alidor 🧉&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ludovic-alidor-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;in-short&#34;&gt;&#xA;  In short&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#in-short&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;My name is Ludovic Alidor and I am a &lt;a href=&#34;https://en.wikipedia.org/wiki/Computer_engineering&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;&lt;/a&gt; at &lt;a href=&#34;https://astekgroup.fr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Astek&lt;/strong&gt;&lt;/a&gt; currently living in &lt;a href=&#34;https://en.wikipedia.org/wiki/Nice&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Nice&lt;/strong&gt;&lt;/a&gt;, France.  My interests range from &lt;a href=&#34;https://500px.com/p/alidorludovic&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;photography&lt;/strong&gt;&lt;/a&gt; to &lt;a href=&#34;https://www.google.com/maps/d/u/0/edit?mid=1aP77NK-gJBWSS9XGc_P_AC8MasvlMnkx&amp;amp;usp=sharing&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;travel&lt;/strong&gt;&lt;/a&gt;. I am also interested in **&lt;a href=&#34;https://hevy.com/user/darkclaw974&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fitness**&lt;/a&gt;, &lt;strong&gt;food&lt;/strong&gt;, &lt;strong&gt;programming&lt;/strong&gt;, and &lt;strong&gt;innovation&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why--&#34;&gt;&#xA;  Why 🧉 ?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#why--&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;After a trip to South America, I fell in love with &lt;a href=&#34;https://en.wikipedia.org/wiki/Mate_%28drink%29&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yerba Mate&lt;/a&gt;, a drink I consume regularly that gives me energy during my productive hours.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>http://alidorludovic.github.io/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://alidorludovic.github.io/articles/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
