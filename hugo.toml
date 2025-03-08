@@ -106,19 +106,6 @@ name = "Résumé"
 weight = 4
 url = "https://drive.google.com/file/d/1gJv8djpfX1gb3DApjUBzdH122KgrGt7i/view?usp=sharing"
 
-[menu]
-  [[menu.header]]
-    name = "Articles"
-    url = "/articles/"
-
-  [[menu.header]]
-    name = "About"
-    url = "/aboutme/"
-
-  [[menu.header]]
-    name = "Résumé"
-    url = "https://drive.google.com/file/d/1gJv8djpfX1gb3DApjUBzdH122KgrGt7i/view?usp=sharing"
-
 [markup]
   [markup.highlight]
     noClasses = false
