@@ -1,3 +1,7 @@
+---
+disableComments: true
+---
+
 ### 🚀 Junior Consultant devOps at [Astek](https://astekgroup.fr/)
 
 #### Current goals 🌋
